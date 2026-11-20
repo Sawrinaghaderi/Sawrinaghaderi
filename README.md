@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sarina! 👋
 
-<!--
-**Sawrinaghaderi/Sawrinaghaderi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Front-End Developer
 
-Here are some ideas to get you started:
+I'm passionate about web development and enjoy creating responsive, interactive, and user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies & Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+- Git & GitHub
+
+### 🌱 Currently Learning
+
+- React.js
+- Advanced JavaScript
+- Front-End Development
+
+### 🚀 Featured Project
+
+**Prada Website Recreation**
+
+An independent fashion website recreation built using HTML, Tailwind CSS, JavaScript, and Vite.
+
+[View Project](https://github.com/Sawrinaghaderi/Prada-website-recreation)
+
